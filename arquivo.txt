@@ -1,2 +1,3 @@
 Arquivo para teste
 Nova alteração para commit de construction
+Nova alteração para commit de bug
