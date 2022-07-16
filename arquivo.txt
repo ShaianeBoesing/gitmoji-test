@@ -2,3 +2,4 @@ Arquivo para teste
 	Nova alteração para commit de construction
 	Nova alteração para commit de bug
 	Nova alteração para commit de lipstick
+	Nova configuração para commit wrench
