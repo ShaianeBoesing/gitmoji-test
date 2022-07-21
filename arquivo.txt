@@ -5,3 +5,4 @@ Arquivo para teste
 	Nova configuração para commit wrench
 	Nova configuração para commit white_check_mark
 	Nova configuração para commit sparkles
+	Nova alteração para commit memo
